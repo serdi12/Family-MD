@@ -47,7 +47,7 @@ global.urlnya = "https://saweria.co/IyanMd"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62-895-1694-7204'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
