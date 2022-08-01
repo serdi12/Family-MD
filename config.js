@@ -61,8 +61,8 @@ global.packname = data.namabot;
 global.author = data.owner;
 
 //=========== Requirements ==========//  
-        global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy 𝚒𝚢𝚊𝚗'
+global.colong1 = 'Ciss 📸'
+global.colong2 = 'ʙy 𝚒𝚢𝚊𝚗'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
